@@ -1,0 +1,4 @@
+# Ignore model weights
+*.pth
+*.bin
+*.ckpt
